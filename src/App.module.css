@@ -1,0 +1,10 @@
+div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image{
+  width: 40rem;
+  height: 40rem;
+  object-fit: contain;
+}
